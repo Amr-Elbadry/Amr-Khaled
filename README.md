@@ -1,4 +1,4 @@
-# Hi 👋, I'm **Amr Khaled**
+# Hi 👋, I'm **Amr Khaled Elbadry**
 
 ### 💻 Full Stack Web Developer | 🤖 AI Automation Developer
 
